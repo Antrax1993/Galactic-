@@ -25,17 +25,17 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = ``
-global.author = '{\n "bot": {\n   "name": "𝐌𝐀𝐑𝐈𝐎-𝐁𝐎𝐓",\n     "author": "Jorge",\n   "status_bot": "active"\n }\n}'
-global.wait = '𝐌𝐀𝐑𝐈𝐎-𝐁𝐎𝐓'
-global.botname = '𝐌𝐀𝐑𝐈𝐎-𝐁𝐎𝐓'
+global.author = '{\n "bot": {\n   "name": "𝑻𝑯𝑬 𝑱𝑶𝑪𝑲𝑬𝑹 𝑩𝑶𝑻",\n     "author": "Jorge",\n   "status_bot": "active"\n }\n}'
+global.wait = '𝑻𝑯𝑬 𝑱𝑶𝑪𝑲𝑬𝑹 𝑩𝑶𝑻'
+global.botname = '𝑻𝑯𝑬 𝑱𝑶𝑪𝑲𝑬𝑹 𝑩𝑶𝑻'
 global.textbot = `Powered By Jorge`
 global.listo = 'Completado ✯'
-global.namechannel = '𝐌𝐀𝐑𝐈𝐎-𝐁𝐎𝐓'
+global.namechannel = '𝑻𝑯𝑬 𝑱𝑶𝑪𝑲𝑬𝑹 𝑩𝑶𝑻'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./storage/img/catalogo.png')
-global.miniurl = fs.readFileSync('./storage/img/Mariourl.jpg')
+global.miniurl = fs.readFileSync('./storage/img/jockerurl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
