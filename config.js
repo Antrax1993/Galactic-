@@ -11,8 +11,8 @@ import moment from 'moment-timezone'
 
 global.owner = [
   ['584123989549', 'Anuar⁩', true],
-  ['584123989549'],
-  ['584123989549'],
+  ['14582558897'],
+  ['14582558897'],
   ['584123989549'],
   ['584123989549']
 ]
@@ -24,18 +24,18 @@ global.prems = []
    
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
-global.packname = `𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫`
-global.author = '{\n "bot": {\n   "name": "𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫",\n     "author": "Anuar",\n   "status_bot": "active"\n }\n}'
-global.wait = '𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫'
-global.botname = '𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻 - 𝑴𝑫'
-global.textbot = `Powered By Sisked`
+global.packname = ``
+global.author = '{\n "bot": {\n   "name": "𝐌𝐀𝐑𝐈𝐎-𝐁𝐎𝐓",\n     "author": "Jorge",\n   "status_bot": "active"\n }\n}'
+global.wait = '𝐌𝐀𝐑𝐈𝐎-𝐁𝐎𝐓'
+global.botname = '𝐌𝐀𝐑𝐈𝐎-𝐁𝐎𝐓'
+global.textbot = `Powered By Jorge`
 global.listo = 'Completado ✯'
-global.namechannel = '𝑺𝑰𝑺𝑲𝑬𝑫 𝑩𝑶𝑻'
+global.namechannel = '𝐌𝐀𝐑𝐈𝐎-𝐁𝐎𝐓'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.catalogo = fs.readFileSync('./storage/img/catalogo.png')
-global.miniurl = fs.readFileSync('./storage/img/siskedurl.jpg')
+global.miniurl = fs.readFileSync('./storage/img/mariourl.jpg')
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
