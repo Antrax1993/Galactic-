@@ -9,7 +9,7 @@ let img = catalogo
     forwardedNewsletterMessageInfo: {
       newsletterJid: "12098765423@newsletter",
       serverMessageId: 100,
-      newsletterName: '𝑺𝑰𝑺𝑲𝑬𝑫-𝑩𝑶𝑻',
+      newsletterName: '𝑻𝑯𝑬 𝑱𝑶𝑪𝑲𝑬𝑹 𝑩𝑶𝑻',
     },
 	    externalAdReply: {
 				    showAdAttribution: true,
