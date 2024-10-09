@@ -57,7 +57,7 @@ await conn.reply(m.chat, juego, m, m.mentionedJid ? { mentions: m.mentionedJid }
 // ------------------------------------------------------------------------------------------------------------------------------------------------   
   
 if (command == 'negro') {
-let juego = `_*${text.toUpperCase()}* *ES* *${(100).getRandom()}%* *${command.replace('how', '').toUpperCase()} 👨🏾‍🦱, MAS NEGRO QUE SU POTO? 😂*_`.trim()
+let juego = `_*${text.toUpperCase()}* *ES* *${(100).getRandom()}%* *${command.replace('how', '').toUpperCase()} 👨🏾‍🦱, MAS NEGRO QUE SU NALGAS? 😂*_`.trim()
 await conn.reply(m.chat, juego, m, m.mentionedJid ? { mentions: m.mentionedJid } : {})}
   
 // ------------------------------------------------------------------------------------------------------------------------------------------------   
